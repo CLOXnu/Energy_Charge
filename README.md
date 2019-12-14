@@ -1,6 +1,8 @@
 # Energy_Charge
 It's a rewritten Energy_Charge project, powered by docker.
 
+There are [macOS version](https://github.com/CLOXnu/Energy_Charge_in_MacOS)
+
 You can use it by typing
 
 ```shell
